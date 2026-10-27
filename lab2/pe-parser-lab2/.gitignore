@@ -1,0 +1,6 @@
+pe_parser
+pe_parser.exe
+*.o
+*.obj
+out.txt
+.DS_Store
